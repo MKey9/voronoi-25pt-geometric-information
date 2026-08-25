@@ -1,8 +1,9 @@
 # Geometric Information Preservation and Entropy Scaling in Voronoi Tessellations: A 25-Point Physical–Computational Investigation
 
 **Preprint:** [https://doi.org/10.5281/zenodo.18007587](https://doi.org/10.5281/zenodo.18007587)
+**Supplementary dataset:** [https://doi.org/10.5281/zenodo.18017401](https://doi.org/10.5281/zenodo.18017401)
 
-> **Provenance:** This repository mirrors the canonical Zenodo record [10.5281/zenodo.18007587](https://doi.org/10.5281/zenodo.18007587) (v1, published 21 December 2025). The Zenodo record is the authoritative, DOI-stamped source; this repository is an archival mirror of its published contents.
+> **Provenance:** This repository mirrors two canonical Zenodo records: the preprint [10.5281/zenodo.18007587](https://doi.org/10.5281/zenodo.18007587) (v1, published 21 December 2025) and its supplementary dataset [10.5281/zenodo.18017401](https://doi.org/10.5281/zenodo.18017401) (v1, published 21 December 2025). The Zenodo records are the authoritative, DOI-stamped sources; this repository is an archival mirror of their published contents.
 
 ## Abstract
 
@@ -11,6 +12,7 @@ We present an empirical investigation of geometric information preservation in V
 ## Contents
 
 - `2025-12-21_Voronoi_Investigation_25pt_paper.pdf` — the preprint as published on the Zenodo record.
+- `2025-12-21_Voronoi_Investigation_25pt_dataset.zip` — the supplementary dataset as published on record 18017401, including (per that record's description) the raw physical images, representative MATLAB validation code, and tabular data regarding entropy metrics and geometric coordinates.
 
 ## Citation
 
@@ -18,4 +20,4 @@ Keynan, M. *Geometric Information Preservation and Entropy Scaling in Voronoi Te
 
 ## License
 
-CC BY 4.0, matching the Zenodo record.
+Papers, figures and data: CC BY 4.0, matching the Zenodo records. Code: MIT (see LICENSE).
