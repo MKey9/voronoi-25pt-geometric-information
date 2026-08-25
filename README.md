@@ -16,7 +16,7 @@ We present an empirical investigation of geometric information preservation in V
 
 ## Citation
 
-Keynan, M. *Geometric Information Preservation and Entropy Scaling in Voronoi Tessellations: A 25-Point Physical–Computational Investigation.* Zenodo. https://doi.org/10.5281/zenodo.18007587
+Keynan, M. *Geometric Information Preservation and Entropy Scaling in Voronoi Tessellations: A 25-Point Physical–Computational Investigation.* Zenodo. https://doi.org/10.5281/zenodo.18007586 (concept DOI — always resolves to the latest version)
 
 ## License
 
